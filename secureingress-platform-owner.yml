@@ -4,7 +4,7 @@ metadata:
   name: sijs
   namespace: sm-juiceshop
 spec:
-  domainName: "sm-js.foobz.com.au"
+  domainName: "js.f5.local"
 #  jwt:
 #  - issuer: "admin@example.com"
 #    jwksUri: "https://auth.example.com/jwks.json"
