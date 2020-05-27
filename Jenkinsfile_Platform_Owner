@@ -3,7 +3,7 @@ pipeline {
     environment
     {
         K8S_URL = 'https://10.1.10.21:6443'
-        CRED = 'kubeconfig_k8s-cluster1'
+        CRED = 'k8s-cluster1_credential'
         NAMESPACE = 'default'
         TIMEOUT = '80s'
     }
